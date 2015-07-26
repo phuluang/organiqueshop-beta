@@ -34,17 +34,17 @@
     </div>
     <div class="col-xs-4 follow-us">
       <h4><?php echo $text_follow_us; ?></h4>
-      <a href="#">
+      <a href="https://www.facebook.com/OrganiqueTH">
         <span class="fa fa-facebook-square"></span>
       </a>
-      <a href="#">
+      <a href="https://twitter.com/OrganiqueShop">
         <span class="fa fa-twitter-square"></span>
       </a>
       <a href="#">
         <span class="fa fa-google-plus-square"></span>
       </a>
     </div>
-    
+
   </div>
 </div>
 <!--
