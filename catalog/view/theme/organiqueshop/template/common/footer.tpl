@@ -40,7 +40,7 @@
       <a href="https://twitter.com/OrganiqueShop">
         <span class="fa fa-twitter-square"></span>
       </a>
-      <a href="#">
+      <a href="https://www.google.com/+OrganiqueshopNetTH">
         <span class="fa fa-google-plus-square"></span>
       </a>
     </div>
